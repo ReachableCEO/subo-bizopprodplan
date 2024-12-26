@@ -1,0 +1,38 @@
+## Device fleet management
+
+### Backend:
+
+- https://resin.io/how-it-works/
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-14-04
+- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-startedr
+
+
+### Client side
+- http://www.berryterminal.com/doku.php/berryboot
+- http://www.berryterminal.com/doku.php/berryboot/adding_custom_distributions
+- http://blog.hypriot.com/downloads/
+- http://blog.hypriot.com/
+- http://blog.hypriot.com/post/heavily-armed-after-major-upgrade-raspberry-pi-with-docker-1-dot-5-0/
+
+### Telemetry
+
+- https://richardstechnotes.wordpress.com/2015/12/26/iot-streaming-with-mqtt-and-apache-nifi/
+- https://github.com/richards-tech/RTMQTT
+- https://github.com/richards-tech/RTNiFiStreamProcessors
+- https://github.com/richards-tech/RTIMULib2
+- http://cpham.perso.univ-pau.fr/LORA/RPIgateway.html
+- http://www.dragino.com/products/module/item/106-lora-gps-hat.html
+- http://wiki.dragino.com/index.php?title=Lora/GPS_HAT#Example1_--_Use_with_LMIC_library_for_LoraWAN_compatible
+- http://www.eleduino.com/Dragino-Lora-GPS_HAT-for-Raspberry-Pi-p10580.html
+- http://www.aliexpress.com/store/product/Long-distance-wireless-433-868-915Mhz-Lora-and-GPS-Expansion-Board-for-Raspberry-Pi/1390863_32672385182.html 
+
+### Cross compile for pi and make custom images.
+- http://rpi-cloud.com/guide-install-jenkins-on-rpi/
+- http://software-novotny.de/raspberry-pi-remote-compilation-with-jenkins
+- http://watchmysys.com/blog/tag/cross-compile/
+- https://github.com/andrius/build-raspbian-image
+- https://github.com/debian-pi/raspbian-ua-netinst
+
+
+
+http://csis.org/files/attachments/151216_Unmanned_Systems.pdf
